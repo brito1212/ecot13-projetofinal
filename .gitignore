@@ -15,3 +15,13 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+.lombok
+lombok.config
+
+# Entity Manager
+META-INF/
+
+# Persistence
+persistence.xml
+persistence.xml.template
